@@ -1,0 +1,32 @@
+baseURL = 'https://konradhalas.pl/'
+languageCode = 'en-us'
+title = 'Konrad Hałas'
+theme = 'typo'
+
+[params]
+description = 'Konrad Hałas personal website.'
+breadcrumbs = true
+homeIntroTitle = 'Hi!'
+homeIntroContent = """
+My name is Konrad and this is my personal website. Good to see you here!
+"""
+
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "about"
+url = "/about"
+
+[[params.menu]]
+name = "projects"
+url = "/projects"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/konradhalas"
+
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/konradhalas"
