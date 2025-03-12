@@ -8,7 +8,11 @@ description = 'Konrad Hałas personal website.'
 breadcrumbs = true
 homeIntroTitle = 'Hi!'
 homeIntroContent = """
-My name is Konrad and this is my personal website. Good to see you here!
+Hi, my name is Konrad, and I'm happy to see you on my personal homepage.
+
+On this site, you'll find a few words about me, a list of my current projects, and the talks I've given.
+
+Enjoy exploring!
 """
 
 [[params.menu]]
@@ -22,6 +26,10 @@ url = "/about"
 [[params.menu]]
 name = "projects"
 url = "/projects"
+
+[[params.menu]]
+name = "talks"
+url = "/talks"
 
 [[params.social]]
 name = "github"
