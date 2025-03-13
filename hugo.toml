@@ -10,7 +10,7 @@ homeIntroTitle = 'Hi!'
 homeIntroContent = """
 Hi, my name is Konrad, and I'm happy to see you on my personal homepage.
 
-On this site, you'll find a few words about me, a list of my current projects, and the talks I've given.
+On this site, you'll find a few words [about me](/about), a list of my current and past [projects](/projects), and the [talks](/talks) I've given. Feel free to [contact](/contact) me if you have any questions or just want to chat.
 
 Enjoy exploring!
 """
@@ -30,6 +30,10 @@ url = "/projects"
 [[params.menu]]
 name = "talks"
 url = "/talks"
+
+[[params.menu]]
+name = "contact"
+url = "/contact"
 
 [[params.social]]
 name = "github"

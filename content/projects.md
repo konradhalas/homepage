@@ -21,7 +21,7 @@ The ultimate tool for seamless Go tournament management. I'm a creator and maint
 
 ### [Warsaw Go Club](https://warszawa.go.art.pl)
 
-Warsaw Go Club is a weekly meetup of Go game players (Wéiqí, Baduk). I'm a current chairman of the club.
+The Warsaw Go Club is a weekly meetup of Go game players (Wéiqí, Baduk). I'm a current chairman of the club.
 
 ### [PyWaw](https://pywaw.org)
 
