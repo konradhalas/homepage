@@ -15,6 +15,8 @@ On this site, you'll find a few words [about me](/about), a list of my current a
 Enjoy exploring!
 """
 
+footerContent="“The happiness of your life depends upon the quality of your thoughts.” - Marcus Aurelius"
+
 [[params.menu]]
 name = "home"
 url = "/"
